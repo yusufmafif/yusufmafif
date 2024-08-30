@@ -1,6 +1,3 @@
-I'm Yusuf M. Afif
-I'm passionate about coding and creating things that make a positive impact.
-
 I'm currently exploring various technologies and frameworks in Javascript particularly :
 
 Frontend development using React (NextJS)
